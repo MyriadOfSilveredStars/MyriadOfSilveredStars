@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rho
 - 👀 I’m interested in computer science and creative writing
-- 🌱 I’m currently learning computer science, english literature and mathematics at A Level
-- 💞️ I’m looking to collaborate on nothing. I literally just want an IDE that works on my laptop
+- 🌱 I’m currently studying computer science at University
+- 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: please don't
 
 <!---
