@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rho
-- 👀 I’m interested in computer science and creative writing
-- 🌱 I’m currently studying computer science at the University of East Anglia
-- 💞️ I’m looking to collaborate on nothing right now
+- 👀 I’m interested in Computer Science and Creative Writing
+- 🌱 I’m currently studying Computer Science at the University of East Anglia
+- 💞️ Not currently looking to collaborate
 - 📫 How to reach me: rhobates@outlook.com (personal) or tyb23mnu@uea.ac.uk (university)
 
 <!---
